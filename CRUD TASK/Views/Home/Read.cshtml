@@ -1,0 +1,55 @@
+﻿@model IEnumerable<CRUD_TASK.Models.Home>
+
+@{
+    ViewData["Title"] = "Read";
+}
+
+<h2>Read</h2>
+
+<div>
+    <a asp-action="Create" class="btn btn-primary">Add New</a>
+</div>
+
+<table id="table" class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Date of Birth</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.DOB</td>
+                <td>@item.Email</td>
+                <td>@item.Mobile</td>
+                <td>@item.Department</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                    <a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        $('.table').DataTable();
+    </script>
+}
+
+
+
+

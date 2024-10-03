@@ -1,0 +1,137 @@
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\appsettings.Development.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\appsettings.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.staticwebassets.runtime.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.exe
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.deps.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.runtimeconfig.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\CRUD TASK.pdb
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Azure.Core.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Azure.Identity.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Humanizer.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.CodeDom.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Memory.Data.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Text.Json.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.csproj.AssemblyReference.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.GeneratedMSBuildEditorConfig.editorconfig
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.AssemblyInfoInputs.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.AssemblyInfo.cs
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.csproj.CoreCompileInputs.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.MvcApplicationPartsAssemblyInfo.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.RazorAssemblyInfo.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.RazorAssemblyInfo.cs
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets.build.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets.development.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets\msbuild.CRUD TASK.Microsoft.AspNetCore.StaticWebAssets.props
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD TASK.props
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD TASK.props
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD TASK.props
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\staticwebassets.pack.json
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\scopedcss\bundle\CRUD TASK.styles.css
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\scopedcss\projectbundle\CRUD TASK.bundle.scp.css
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.csproj.Up2Date
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\refint\CRUD TASK.dll
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.pdb
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\CRUD TASK.genruntimeconfig.cache
+F:\NewPreparation\DHASA ASP.NET\CRUD TASK\CRUD TASK\obj\Debug\net8.0\ref\CRUD TASK.dll
